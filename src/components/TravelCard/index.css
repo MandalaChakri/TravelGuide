@@ -1,0 +1,25 @@
+.travel-card-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  overflow-y: auto;
+  background-color: #ffffff;
+}
+.image {
+  height: 100px;
+  width: 200px;
+  background-size: cover;
+}
+.heading {
+  font-size: 15px;
+  font-weight: 1000;
+  font-family: 'Roboto';
+  color: #475569;
+}
+.para {
+  font-size: 10px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  color: #64748b;
+}

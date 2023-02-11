@@ -1,0 +1,11 @@
+.title {
+  color: #334155;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  text-align: center;
+  text-decoration: underline;
+}
+.travel-list-container {
+  display: flex;
+}
